@@ -1,0 +1,17 @@
+/Users/matt/Documents/Unity/SuperMarioBland/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/matt/Documents/Unity/SuperMarioBland/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/matt/Documents/Unity/SuperMarioBland/obj/Debug/Assembly-CSharp.dll
+/Users/matt/Documents/Unity/SuperMarioBland/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/matt/Documents/Unity/SuperMarioBland/Temp/bin/Debug/UnityEngine.dll
+/Users/matt/Documents/Unity/SuperMarioBland/Temp/bin/Debug/UnityEditor.dll
+/Users/matt/Documents/Unity/SuperMarioBland/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/matt/Documents/Unity/SuperMarioBland/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/matt/Documents/Unity/SuperMarioBland/Temp/bin/Debug/Mono.Cecil.dll
+/Users/matt/Documents/Unity/SuperMarioBland/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/matt/Documents/Unity/SuperMarioBland/Temp/bin/Debug/Unity.DataContract.dll
+/Users/matt/Documents/Unity/SuperMarioBland/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/matt/Documents/Unity/SuperMarioBland/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/matt/Documents/Unity/SuperMarioBland/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/matt/Documents/Unity/SuperMarioBland/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/matt/Documents/Unity/SuperMarioBland/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/matt/Documents/Unity/SuperMarioBland/Temp/bin/Debug/Mono.Cecil.Mdb.dll
